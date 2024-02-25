@@ -1,0 +1,14 @@
+/*Cajitas*/
+/* #exampleFormControlInput {
+    border-color:#83764C;
+    height: 4rem;
+} */
+
+::placeholder {
+    font-size: 1.2rem;
+}
+
+label {
+    font-size: 1.2rem;
+}
+
